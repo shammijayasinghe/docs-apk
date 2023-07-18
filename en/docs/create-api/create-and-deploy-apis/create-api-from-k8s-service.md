@@ -1,4 +1,4 @@
-Follow these two steps to create an API by using an exising `Service` resoruce for your backend:
+Follow these two steps to create an API by using an exising `Service` resource for your backend:
 
 - [Retrieve/search services](../../../catalogs/api-reference-runtime/#tag/Import-Export/operation/importAPI) to see backend services avilable as Kubernetes `Service` resources
 
